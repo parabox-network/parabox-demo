@@ -1,0 +1,17 @@
+{
+  "name": "parabox-demo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "",
+  "dependencies": {
+    "parabox": "https://github.com/ABMatrix/abos-sdk-js.git",
+    "git": "^0.1.5",
+    "remote": "^0.2.6"
+  },
+  "scripts": {
+    "migrate": "npx appchain-migrate migrate"
+  },
+  "devDependencies": {
+    "@cryptape/cita-truffle-migrate": "0.20.4"
+  }
+}
