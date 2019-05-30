@@ -2,10 +2,10 @@
   "name": "parabox-demo",
   "version": "0.0.1",
   "main": "index.js",
-  "license": "",
+  "license": "MIT",
   "dependencies": {
-    "parabox": "https://github.com/ABMatrix/abos-sdk-js.git",
     "git": "^0.1.5",
+    "parabox-sdk": "https://github.com/parabox-network/parabox-sdk-js.git",
     "remote": "^0.2.6"
   },
   "scripts": {
