@@ -19,7 +19,7 @@ module.exports = {
       network_id: '*',
       privateKey: '', //your privateKey
       quota: 953000,
-      version: 1
+      version: 2
     },
   },
 }
